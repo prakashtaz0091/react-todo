@@ -8,3 +8,6 @@
 - Automatically send compeleted tasks to last
 
 
+## Future plans
+- Adding Local storage
+- Remainder 
